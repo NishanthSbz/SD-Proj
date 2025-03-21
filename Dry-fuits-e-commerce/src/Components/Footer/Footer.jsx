@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { HiOutlineX } from "react-icons/hi";
 import { AppContext } from "@/Context";
-import OrderCard from "../OrderCard";
+import OrderCard from "../OrderCard/OrderCard";
 import { totalPrice } from "../../Utils/index.js";
 import { Link } from "react-router-dom";
 
