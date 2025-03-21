@@ -5,7 +5,7 @@ import { useRoutes, BrowserRouter, useNavigate } from "react-router-dom";
 import { AppProvider } from "@/Context";
 import Home from "../Home/Home";
 import MyAccount from "../MyAccount/MyAccount";
-import MyOrder from "../MyOrder";
+import MyOrder from "../MyOrder/MyOrder";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
 import SignIn from "../SignIn";

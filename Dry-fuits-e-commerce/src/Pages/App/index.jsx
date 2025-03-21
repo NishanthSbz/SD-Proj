@@ -9,7 +9,7 @@ import CheckoutSideMenu from "@/Components/CheckoutSideMenu";
 import "./App.css";
 
 import Home from "../Home/Home";
-import MyOrder from "../MyOrder";
+import MyOrder from "../MyOrder/MyOrder";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
 import MyAccount from "../MyAccount/MyAccount";

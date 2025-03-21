@@ -7,7 +7,7 @@ import CheckoutSideMenu from "@/Components/CheckoutSideMenu/index.jsx";
 import "./App.css";
 
 import Home from "../Home/Home.jsx";
-import MyOrder from "../MyOrder/index.jsx";
+import MyOrder from "../MyOrder/MyOrder.jsx";
 import MyOrders from "../MyOrders/index.jsx";
 import NotFound from "../NotFound/index.jsx";
 import MyAccount from "../MyAccount/MyAccount.jsx";
