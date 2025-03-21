@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import Card from "../../Components/Card/Card";
 import Layout from "../../Components/Layout";
 import ProductDetail from "../../Components/ProductDetail";
-import CheckoutSideMenu from "../../Components/CheckoutSideMenu";
+import CheckoutSideMenu from "../../Components/CheckoutSideMenu/CheckoutSideMenu";
 
 const Home = () => {
   // UseState is a hook to add the info from the API to the state

@@ -7,7 +7,7 @@ import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
 import SignIn from "../SignIn";
 import Navbar from "../../Components/Navbar";
-import CheckoutSideMenu from "../../Components/CheckoutSideMenu";
+import CheckoutSideMenu from "../../Components/CheckoutSideMenu/CheckoutSideMenu";
 import PrivateRoute from "../../routes/PrivateRoute"; // Import PrivateRoute
 
 const AppRoutes = () => {
