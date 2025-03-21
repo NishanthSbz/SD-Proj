@@ -6,7 +6,7 @@ import Navbar from "@/Components/Navbar/index.jsx";
 import CheckoutSideMenu from "@/Components/CheckoutSideMenu/index.jsx";
 import "./App.css";
 
-import Home from "../Home/index.jsx";
+import Home from "../Home/Home.jsx";
 import MyOrder from "../MyOrder/index.jsx";
 import MyOrders from "../MyOrders/index.jsx";
 import NotFound from "../NotFound/index.jsx";
