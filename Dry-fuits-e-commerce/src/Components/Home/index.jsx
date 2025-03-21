@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import Card from "../Card/Card";
 import Layout from "../Layout/Layout";
-import ProductDetail from "../../Components/ProductDetail";
+import ProductDetail from "../ProductDetail/ProductDetail";
 import { AppContext } from "../../Context";
 
 const Home = () => {
