@@ -1,4 +1,5 @@
-import React, { useContext } from "react";
+import PropTypes from "prop-types";
+import React from "react";
 import { useNavigate } from "react-router-dom";
 
 const AuthContext = React.createContext();
@@ -25,9 +26,13 @@ function AuthProvider({ children }) {
   return <AuthContext.Provider value={auth}>{children}</AuthContext.Provider>;
 }
 
+AuthProvider.propTypes = {
+  children: PropTypes.node,
+};
+
 function useAuth() {
   //here?
   const auth = React.useContext(AuthContext);
   return auth;
 }
-export { AuthProvider, useAuth };   
+export { AuthProvider, useAuth };
