@@ -6,7 +6,7 @@ import { AppProvider } from "@/Context";
 import Home from "../Home/Home";
 import MyAccount from "../MyAccount/MyAccount";
 import MyOrder from "../MyOrder/MyOrder";
-import MyOrders from "../MyOrders";
+import MyOrders from "../MyOrders/MyOrders";
 import NotFound from "../NotFound";
 import SignIn from "../SignIn";
 import Navbar from "@/Components/Navbar";

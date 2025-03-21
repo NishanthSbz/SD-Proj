@@ -8,7 +8,7 @@ import "./App.css";
 
 import Home from "../Home/Home.jsx";
 import MyOrder from "../MyOrder/MyOrder.jsx";
-import MyOrders from "../MyOrders/index.jsx";
+import MyOrders from "../MyOrders/MyOrders.jsx";
 import NotFound from "../NotFound/index.jsx";
 import MyAccount from "../MyAccount/MyAccount.jsx";
 import SignIn from "../SignIn/index.jsx";

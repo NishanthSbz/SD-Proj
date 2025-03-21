@@ -10,7 +10,7 @@ import "./App.css";
 
 import Home from "../Home/Home";
 import MyOrder from "../MyOrder/MyOrder";
-import MyOrders from "../MyOrders";
+import MyOrders from "../MyOrders/MyOrders";
 import NotFound from "../NotFound";
 import MyAccount from "../MyAccount/MyAccount";
 import SignIn from "../SignIn";
