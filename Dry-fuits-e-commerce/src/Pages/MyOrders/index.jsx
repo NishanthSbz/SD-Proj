@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import Layout from "../../Components/Layout";
+import Layout from "../../Components/Layout/Layout";
 import { AppContext } from "../../Context";
 import OrdersCard from "../../Components/OrdersCard";
 import { Link } from "react-router-dom";

@@ -1,5 +1,5 @@
 import { useContext } from "react";
-import Layout from "../../Components/Layout";
+import Layout from "../../Components/Layout/Layout";
 import OrderCard from "../../Components/OrderCard";
 import { AppContext } from "../../Context";
 import { HiChevronLeft } from "react-icons/hi";
