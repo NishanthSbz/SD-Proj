@@ -10,7 +10,7 @@ import Home from "../Home/Home.jsx";
 import MyOrder from "../MyOrder/index.jsx";
 import MyOrders from "../MyOrders/index.jsx";
 import NotFound from "../NotFound/index.jsx";
-import MyAccount from "../MyAccount/index.jsx";
+import MyAccount from "../MyAccount/MyAccount.jsx";
 import SignIn from "../SignIn/index.jsx";
 import Logout from "../Logout/index.jsx";
 import PublicRoute from "./PublicRoute.jsx";

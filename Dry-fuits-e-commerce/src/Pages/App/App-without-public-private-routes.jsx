@@ -10,7 +10,7 @@ import Home from "../Home/Home";
 import MyOrder from "../MyOrder";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
-import MyAccount from "../MyAccount";
+import MyAccount from "../MyAccount/MyAccount";
 import SignIn from "../SignIn";
 import Logout from "../Logout";
 

@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { useRoutes, BrowserRouter, useNavigate } from "react-router-dom";
 import { AppProvider } from "@/Context";
 import Home from "../Home/Home";
-import MyAccount from "../MyAccount";
+import MyAccount from "../MyAccount/MyAccount";
 import MyOrder from "../MyOrder";
 import MyOrders from "../MyOrders";
 import NotFound from "../NotFound";
